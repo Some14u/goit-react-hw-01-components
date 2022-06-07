@@ -28,7 +28,7 @@ export const App = () => {
       <Statistics stats={data} />
     <Header text="Третье задание" bgColor="#fef" />
       <FriendList friends={friends} />
-    <Header text="Четвёртое задание" bgColor="#efe" width="350px"/>
+    <Header text="Четвёртое задание" bgColor="#efe" width="100%"/>
       <TransactionHistory items={transactions} />
     </div>
   );

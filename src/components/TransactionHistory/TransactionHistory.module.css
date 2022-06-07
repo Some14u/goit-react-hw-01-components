@@ -1,5 +1,6 @@
 .transactionHistory {
-  width: 870px;
+  max-width: 870px;
+  width: 100%;
   text-align: center;
   border-radius: 4px;
   overflow: hidden;
